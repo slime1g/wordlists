@@ -42,8 +42,4 @@ Note: Kali Linux provides some password dictionary files as part of its standard
 - [Italian wordlist (single)](other/lower_it.txt) (_344,074 lines_)
 - [Italian wordlist (mixed)](other/mixed_it.txt) (_419 lines_)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Coppied this Repo from David Palma ty :D
